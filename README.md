@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Katsudon10
+- 👋 Hi, I’m Kaito Inoue.
 - 👀 I’m interested in DeepLearning
 - I want to be a Web Engineer!
 - I'm studying
