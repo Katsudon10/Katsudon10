@@ -1,7 +1,7 @@
 #
 - 👋 Hi, I’m Kaito Inoue.
 - 👀 I’m interested in DeepLearning
-- I want to be a Web Engineer!
+- I want to be a Full Stack Web Engineer!
 ## studying
 [![Studying](https://skillicons.dev/icons?i=cpp,css,docker,py,fastapi,git,github,gitlab,html,js,mysql,ts&theme=dark)](https://skillicons.dev)
 ## wanna study
