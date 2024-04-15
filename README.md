@@ -9,7 +9,7 @@
 [![wanna study](https://skillicons.dev/icons?i=aws,azure,gcp,bun,django,flask,go,kubernetes,laravel,nextjs,prisma,ruby,rails,redis,vue&theme=dark)](https://skillicons.dev)
 ## Intern
 - みんなの銀行 1dayワークショップ 09/2023
-- 木村情報技術株式会社 12/2023 ~ 02/2024
+- 木村情報技術株式会社 12/2023 ~ 04/2024
 
 ## Certification
 - 英検2級 06/2017
