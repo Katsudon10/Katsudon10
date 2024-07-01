@@ -20,6 +20,10 @@
 ## Score
 - TOEIC 790 07/2021
 - TOEIC 755 05/2022
+
+## 
+全国私立中学校テニス選手権大会 男子団体優勝
+
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katsudon10)](https://github.com/anuraghazra/github-readme-stats)
 
