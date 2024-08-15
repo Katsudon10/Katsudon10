@@ -24,6 +24,8 @@
 ## 
 全国私立中学校テニス選手権大会 男子団体優勝
 
+## 読書リスト [Notion](https://mint-chopper-5a4.notion.site/80e2e133aec54702975ab9d885784bb2?v=43215ff4c97146e0b6839587dde5bb0f)
+
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katsudon10)](https://github.com/anuraghazra/github-readme-stats)
 
