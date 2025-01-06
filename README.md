@@ -3,6 +3,10 @@
 - 👀 I’m interested in DeepLearning
 - I want to be a Full Stack Web Engineer!
 
+[![Rating](https://badgen.org/img/atcoder/katsudon_/rating/algorithm?style=plastic)](https://atcoder.jp/users/katsudon_?contestType=algo)
+[![Contributions](https://badgen.org/img/qiita/katsudon_qiita/contributions?style=plastic)](https://qiita.com/katsudon_qiita)
+[![Likes](https://badgen.org/img/zenn/katsudon_zenn/likes?style=plastic)](https://zenn.dev/katsudon_zenn)
+
 ## studying
 [![Studying](https://skillicons.dev/icons?i=cpp,css,docker,py,fastapi,git,github,gitlab,html,js,mysql,ts&theme=dark)](https://skillicons.dev)
 ## wanna study
