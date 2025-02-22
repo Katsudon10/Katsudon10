@@ -13,11 +13,16 @@
 - 応用情報技術者試験 12/2023
 - G検定 01/2024
 - AWS CLF-C02 01/2025
+- AWS AIF-C01 02/2025
+- AWS MLA-C02 02/2025
+- AWS MLS-C01 02/2025
 
 ## Score
 - TOEIC 790 07/2021
 - TOEIC 755 05/2022
 
+## others
+- 熊本城マラソン 完走 05:11:55 02/2025
 
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katsudon10)](https://github.com/anuraghazra/github-readme-stats)
